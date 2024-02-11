@@ -8,3 +8,4 @@ A list of solutions to all questions I've solved from the [exercism.org](https:/
 -   [Reverse String](https://exercism.org/tracks/rust/exercises/reverse-string)
 -   [Gigasecond](https://exercism.org/tracks/rust/exercises/gigasecond)
 -   [Clock](https://exercism.org/tracks/rust/exercises/clock)
+-   [Anagram](https://exercism.org/tracks/rust/exercises/anagram)
