@@ -10,3 +10,4 @@ A list of solutions to all questions I've solved from the [exercism.org](https:/
 -   [Clock](https://exercism.org/tracks/rust/exercises/clock)
 -   [Anagram](https://exercism.org/tracks/rust/exercises/anagram)
 -   [Space Age](https://exercism.org/tracks/rust/exercises/space-age)
+-   [Bob](https://exercism.org/tracks/rust/exercises/bob)
